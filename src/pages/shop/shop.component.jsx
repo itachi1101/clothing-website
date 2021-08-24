@@ -1,4 +1,4 @@
-//because we need to store data related to our actual colletion on our shop page
+
 import React from 'react';
 import SHOP_DATA from './shop.data';
 import CollectionPreview from  '../../components/preview-collection/collection-preview';
